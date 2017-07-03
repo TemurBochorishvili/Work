@@ -1,0 +1,9 @@
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\bin\Debug\netcoreapp1.1\Mvc.deps.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\bin\Debug\netcoreapp1.1\Mvc.runtimeconfig.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\bin\Debug\netcoreapp1.1\Mvc.runtimeconfig.dev.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\bin\Debug\netcoreapp1.1\Mvc.dll
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\bin\Debug\netcoreapp1.1\Mvc.pdb
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\obj\Debug\netcoreapp1.1\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\obj\Debug\netcoreapp1.1\Mvc.AssemblyInfo.cs
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\obj\Debug\netcoreapp1.1\Mvc.dll
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\Mvc\obj\Debug\netcoreapp1.1\Mvc.pdb

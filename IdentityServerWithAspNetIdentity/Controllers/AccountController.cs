@@ -153,7 +153,7 @@ namespace IdentityServerWithAspNetIdentity.Controllers
             // delete authentication cookie
             await _signInManager.SignOutAsync();
 
-            return View("LoggedOut", vm);
+            return Redirect("http://localhost:5002/Home");
         }
 
         //

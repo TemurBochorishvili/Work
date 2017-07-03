@@ -1,0 +1,9 @@
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.deps.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.runtimeconfig.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.runtimeconfig.dev.json
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.dll
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\bin\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.pdb
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.AssemblyInfo.cs
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.dll
+C:\Users\temur\Documents\Visual Studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.pdb
+C:\Users\temur\documents\visual studio 2017\Projects\Work\IdentityServerWithAspNetIdentity\obj\Debug\netcoreapp1.1\IdentityServerWithAspNetIdentity.csprojResolveAssemblyReference.cache
